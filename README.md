@@ -7,4 +7,3 @@ Estudio de Ciencias de la Computación en Buenos Aires, me gusta entender, o tra
 -   **Frontend:** React, HTML.
 
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jfgozzi&show_icons=true&theme=radical)
