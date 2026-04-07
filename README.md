@@ -1,7 +1,6 @@
-# Hola, soy Juan Franco Gozzi 
+# Soy Juan Gozzi 
 
-Soy estudiante de Ciencias de la Computación en Buenos Aires. 
-Me gusta entender, o tratar de entender, cómo funcionan las cosas, y en lo posible, automatizarlas.
+Estudio de Ciencias de la Computación en Buenos Aires, me gusta entender, o tratar de entender, cómo funcionan las cosas, y en lo posible, automatizarlas.
 
 ## 🛠 Mi Stack Tecnológico
 - **Lenguajes:** C, C++, Python, Java, Javascript, Haskell, Prolog.
