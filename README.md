@@ -4,4 +4,4 @@ Estudio de Ciencias de la Computación en Buenos Aires, me gusta entender, o tra
 
 ## 🛠 Mi Stack Tecnológico
 - **Lenguajes:** C, C++, Python, Java, Javascript, Haskell, Prolog.
-- **Frontend:** React, HTML.
+-   **Frontend:** React, HTML.
