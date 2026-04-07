@@ -1,4 +1,6 @@
-Mi nombre es Juan Franco Gozzi y soy estudiante de Ciencias de la Computación en Buenos Aires. 
+# Hola, soy Juan Franco Gozzi 
+
+Soy estudiante de Ciencias de la Computación en Buenos Aires. 
 Me gusta entender, o tratar de entender, cómo funcionan las cosas, y en lo posible, automatizarlas.
 
 ## 🛠 Mi Stack Tecnológico
