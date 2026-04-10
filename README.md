@@ -2,7 +2,7 @@
 
 Estudio de Ciencias de la Computación en Buenos Aires.
 
-Me gusta la automatizacion y entender, o tratar de entender, cómo funcionan las cosas.
+Me gusta la automatización y entender, o tratar de entender, cómo funcionan las cosas.
 
 Actualmente estoy enfocado en profundizar mis conocimientos en QA Automation y desarrollo con Python.
 
