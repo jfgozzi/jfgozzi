@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a passionate tech enthusiast based in Buenos Aires, c
 * 🎓 **Studying:** Computer Science in Buenos Aires, Argentina.
 * ⚙️ **Focus:** Currently deep-diving into Advanced E2E Automation, CI/CD pipelines, and modern web testing frameworks.
 * 💡 **Philosophy:** I believe in writing clean, reliable, and maintainable test architectures (Page Object Model is my best friend).
-* 🏃‍♂️ **Fun Fact:** When I'm not debugging Race Conditions or writing code, I'm training to complete an Ironman!
+* 🏃‍♂️ **Fun Fact:** I'm currently training to complete an Ironman. Actually, first a marathon, but dreaming is free.
 
 ### 🛠️ Tech Stack & Tools
 
