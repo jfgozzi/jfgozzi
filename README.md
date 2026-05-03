@@ -2,7 +2,7 @@
 
 **Computer Science Student & QA Automation Engineer**
 
-Welcome to my GitHub! I am a passionate tech enthusiast based in Buenos Aires, currently pursuing my degree in Computer Science. I love automation, breaking things to understand how they work, and building robust safety nets for complex software. 
+I am a passionate tech enthusiast based in Buenos Aires, currently pursuing my degree in Computer Science. I love automation, breaking things to understand how they work, and building robust safety nets for complex software. 
 
 ### 🚀 About Me
 * 🎓 **Studying:** Computer Science in Buenos Aires, Argentina.
