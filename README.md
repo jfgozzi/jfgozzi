@@ -38,4 +38,4 @@ A comprehensive End-to-End testing framework built from scratch using **Playwrig
 * Ensured 100% Cross-Browser stability (Chromium, Firefox, WebKit) running on GitHub Actions CI/CD pipelines.
 
 ---
-📫 **Let's connect!** You can find me on [LinkedIn](https://www.linkedin.com/in/juangozzi/).
+📫 Here's a link to my [LinkedIn](https://www.linkedin.com/in/juangozzi/) profile.
