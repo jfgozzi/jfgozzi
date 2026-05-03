@@ -1,4 +1,4 @@
-# Hi there, I'm Juan! 👋
+# I'm Juan Franco Gozzi 🧑‍💻
 
 **Computer Science Student & QA Automation Engineer**
 
